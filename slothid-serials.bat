@@ -1,7 +1,7 @@
 @echo off
 mode con: cols=90 lines=45
 :diocane
-title -=[HWID Checker @mary81359]=-
+title -=[HWID Checker @slothid]=-
 color 0c
 cls
 echo Bios
